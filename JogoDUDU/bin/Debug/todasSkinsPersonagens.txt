@@ -1,0 +1,9 @@
+billy;10
+cptAmérica;50
+darthVader;0
+homemDeFerro;100
+l;200
+loki;0
+pirata;500
+strmTrooper;1000
+thor;2000

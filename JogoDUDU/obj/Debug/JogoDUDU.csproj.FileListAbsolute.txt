@@ -1,0 +1,92 @@
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.csprojAssemblyReference.cache
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.Properties.Resources.resources
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.csproj.GenerateResource.cache
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\bin\Debug\JogoDUDU.exe.config
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\bin\Debug\JogoDUDU.exe
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\bin\Debug\JogoDUDU.pdb
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.exe
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.pdb
+C:\Users\Guilherme Turtera\Documents\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.frDeserto.resources
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.csprojAssemblyReference.cache
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.Properties.Resources.resources
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.csproj.GenerateResource.cache
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.exe
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.pdb
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\bin\Debug\JogoDUDU.exe.config
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\bin\Debug\JogoDUDU.exe
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\bin\Debug\JogoDUDU.pdb
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.frJogoPrincipal.resources
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.frAjuda.resources
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.frConfigs.resources
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.frLoja.resources
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.frTelaTitulo.resources
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.frConfigAposta.resources
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.frPerseguicao.resources
+C:\Users\Guilherme Turtera\OneDrive\Documentos\EC2\Algoritmos 2\JogoDUDU\JogoDUDU\obj\Debug\JogoDUDU.frAposta.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\bin\Debug\JogoDUDU.exe.config
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\bin\Debug\JogoDUDU.exe
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\bin\Debug\JogoDUDU.pdb
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csprojAssemblyReference.cache
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frPerseguicao.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frConfigAposta.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frAposta.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frAjuda.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frConfigs.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frJogoPrincipal.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frLoja.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frTelaTitulo.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.Properties.Resources.resources
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csproj.GenerateResource.cache
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csproj.CoreCompileInputs.cache
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.exe
+D:\Marovio\projetoGui\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.pdb
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csprojAssemblyReference.cache
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frPerseguicao.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frConfigAposta.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frAposta.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frAjuda.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frConfigs.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frJogoPrincipal.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frLoja.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frTelaTitulo.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.Properties.Resources.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csproj.GenerateResource.cache
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csproj.CoreCompileInputs.cache
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.pdb
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\bin\Debug\JogoDUDU.exe.config
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\bin\Debug\JogoDUDU.exe
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\bin\Debug\JogoDUDU.pdb
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.exe
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frSpaceInvaderJogo.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csproj.ResolveComReference.cache
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\bin\Debug\Interop.WMPLib.dll
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\MetalSlugWF\JogoDUDU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\bin\Debug\JogoDUDU.exe.config
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\bin\Debug\JogoDUDU.exe
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\bin\Debug\JogoDUDU.pdb
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\bin\Debug\Interop.WMPLib.dll
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csprojAssemblyReference.cache
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csproj.ResolveComReference.cache
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frPerseguicao.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frConfigAposta.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frAposta.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frAjuda.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frConfigs.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frJogoPrincipal.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frLoja.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frSpaceInvaderJogo.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frTelaTitulo.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.Properties.Resources.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csproj.GenerateResource.cache
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.csproj.CoreCompileInputs.cache
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.exe
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.pdb
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frRecordes.resources
+C:\Users\Caio_\Documents\Termomecânica EC2\Algoritmos II\WindowsForms\Algoritmos - N2B2\MetalSlugWF\JogoDUDU\obj\Debug\JogoDUDU.frSalvaRecorde.resources

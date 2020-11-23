@@ -1,0 +1,8 @@
+tridente;10
+tiroLuz;50
+tiroBolaDeFogo2;100
+tiroBolaDeFogo1;200
+missil;500
+machado;0
+machado2;0
+flecha;1000
